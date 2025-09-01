@@ -77,7 +77,7 @@ const Sidebar: React.FC = () => {
       <div className="p-4">
         <a
           href="#"
-          className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-300 hover:bg-gray-800 hover:text-white transition-colors"
+          className="flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-300"
         >
           <LogOut className="w-5 h-5" />
           <span className="font-medium">Logout</span>
